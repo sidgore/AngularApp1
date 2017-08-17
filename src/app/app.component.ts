@@ -25,10 +25,6 @@ export class AppComponent {
     gender:'male',
     age:33,
     location:'San Jose',
-
-
-    
-
   };
 buttonStatus = false;
   myArr=['him','hers','yours'];
